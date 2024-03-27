@@ -1,0 +1,5 @@
+03:10:32 [INFO] Some infomation log
+03:10:32 [WARN] Some waring log
+03:10:32 [ERROR] Some error log
+03:10:32 [INFO] try to calculate fibonacci(4)
+03:10:32 [INFO] try to calculate tribonacci(4)
